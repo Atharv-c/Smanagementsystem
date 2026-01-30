@@ -1,2 +1,0 @@
-# Smanagementsystem
-html, php, 
